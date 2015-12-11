@@ -1,0 +1,61 @@
+.nav {
+    padding-top: 20px;
+    margin-bottom:-60px;
+}
+ul.menu li {    
+    width: 80px;
+    height: 30px;
+    float: left;     
+    text-align:center;   
+    display:inline; 
+    font-family: fantasy;
+    font-size: 20px;
+    margin-right:10px;
+    margin-left:10px;
+    padding-left:10px;
+}
+ul.menu li a {
+    text-decoration:none;
+    color:#000000;
+}
+
+.menu{
+    width:759px;
+    height:50px; 
+}
+
+
+.name {
+    font-family: sans-serif;
+    margin-right: 5%;
+    font-size: 32px;
+    padding-top:60px;
+    margin-bottom: -75px;
+    margin-left: 35px;
+}
+body {
+    background-color: gainsboro;
+    background-image: url(black.jpg);
+    background-size: 873px 599px;
+}
+.content {
+    background: honeydew;
+    margin: 4% 20% 4% 20%;
+}
+#block.content {
+    margin: 5% 5% 5% 5%;
+}
+img.content {
+    margin-top:118px;
+    margin-left:0;
+    margin-bottom: -15px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-left:0;
+    border-top: 1px solid black;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 19px;
+    border-top-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+
+}
