@@ -4,6 +4,7 @@ class General extends CI_Controller {
 
     public function __construct() {
         parent::__construct();
+        $a=123;
         $this->load->model('cart_model');
     }
 
